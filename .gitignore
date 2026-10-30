@@ -1,0 +1,7 @@
+build/
+dist/
+*.pdb
+*.obj
+*.ilk
+__pycache__/
+*.pyc
