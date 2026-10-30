@@ -110,6 +110,7 @@ build listed above. Other builds of the game may need new addresses.
 
 ## Credits and licenses
 
+- This mod: **GNU General Public License v3.0** (`LICENSE`).
 - Built on the same code base as the Mass Effect: Andromeda VR mod (Frostbite engine).
 - [MinHook](https://github.com/TsudaKageyu/minhook): BSD 2-Clause (`third_party/minhook/LICENSE.txt`).
 - [OpenXR SDK](https://github.com/KhronosGroup/OpenXR-SDK): Apache 2.0 (`third_party/openxr/LICENSE`).
